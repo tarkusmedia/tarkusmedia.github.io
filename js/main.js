@@ -1,0 +1,1 @@
+"tarkusmedia.ru"===window.location.hostname&&window.location.replace("http://www.tarkusmedia.ru");
